@@ -1,0 +1,26 @@
+{
+  "name": "wechat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUN-TOPO/wechat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SUN-TOPO/wechat/issues"
+  },
+  "homepage": "https://github.com/SUN-TOPO/wechat#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "redis": "^2.4.2",
+    "weixin-service": "^1.0.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
